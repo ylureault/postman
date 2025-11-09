@@ -202,4 +202,31 @@ Avant de sauvegarder le MARKDOWN, vérifier :
 3. ✅ n8n crée brouillon WordPress (status: draft)
 4. ✅ **Toi tu gères le calendrier** éditorial manuellement dans WordPress
 
-**Je push les modifs dans INSTRUCTIONS.md ?**
+## 📚 Fichiers de référence
+
+Avant toute génération d'idée ou rédaction, tu DOIS lire :
+
+1. **book.md** : Positionnement stratégique complet Insuffle
+2. **STYLE_GUIDE_[marque].md** selon la marque concernée :
+   - `STYLE_GUIDE_ACADEMIE.md` → Articles sur la formation
+   - `STYLE_GUIDE_INSUFFLE.md` → Articles sur le consulting/transformation
+
+### Comment choisir le bon guide
+
+**Utilise STYLE_GUIDE_ACADEMIE.md si :**
+- Le sujet concerne la formation professionnelle
+- On parle de certification, Qualiopi, financement
+- Public = apprenants, DRH formation
+- Mots-clés = "formation", "certification", "apprendre"
+
+**Utilise STYLE_GUIDE_INSUFFLE.md si :**
+- Le sujet concerne la transformation organisationnelle
+- On parle de facilitation, intelligence collective en entreprise
+- Public = dirigeants, comex, managers
+- Mots-clés = "transformation", "facilitation", "séminaire"
+
+### Ordre de lecture
+
+1. `book.md` (toujours en premier)
+2. `STYLE_GUIDE_[marque].md` (selon le contexte)
+3. Puis exécuter MODE 1 ou MODE 2
